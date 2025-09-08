@@ -26,6 +26,11 @@ cd ~/gemini-cli-manager
 bash gemini-manager.sh
 ```
 
+or download via curl and run
+```bash
+curl -OL https://raw.githubusercontent.com/breixopd/gemini-cli-manager/refs/heads/master/gemini-manager.sh;bash gemini-manager.sh
+```
+
 ## Usage
 
 ### Interactive Mode
